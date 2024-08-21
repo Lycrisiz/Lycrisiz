@@ -11,3 +11,5 @@
 - 📫 How to reach me: daniel.a.piamba981229@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Everyone asks me about my accent
+
+![Python](https://img.shields.io/badge/Python-3776AB
