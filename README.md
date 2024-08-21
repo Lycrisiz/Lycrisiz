@@ -26,7 +26,7 @@
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> 
       <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
   <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="Power BI" width="40" height="40"/> </a> 
+    <img src="https://upload.vectorlogo.zone/logos/microsoft_powerbi/images/985205ac-fb3d-4c80-97f4-7bc0fec8c67d.svg)" alt="Power BI" width="40" height="40"/> </a> 
   <a href="https://datastudio.google.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/google_datastudio/google_datastudio-icon.svg" alt="Google Data Studio" width="40" height="40"/> </a> 
   <a href="https://flourish.studio/" target="_blank" rel="noreferrer"> 
