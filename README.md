@@ -24,7 +24,15 @@
   <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> 
       <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> 
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> 
-      <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
+      <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
+  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="Power BI" width="40" height="40"/> </a> 
+  <a href="https://datastudio.google.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/google_datastudio/google_datastudio-icon.svg" alt="Google Data Studio" width="40" height="40"/> </a> 
+  <a href="https://flourish.studio/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/flourish/flourish-icon.svg" alt="Flourish" width="40" height="40"/> </a> 
+  <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg" alt="R" width="40" height="40"/> </a>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Lycrisiz&show_icons=true&locale=en" alt="Lycrisiz" /></p>
