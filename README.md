@@ -14,9 +14,13 @@
 
 ## Lenguajes que Conozco
 
-- !Python
-- !R
-- !JavaScript
-- !HTML5
-- !CSS3
+
+
+
+
+
+
+
+
+
 
