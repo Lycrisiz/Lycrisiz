@@ -5,7 +5,6 @@
 
 - 📙 I’m currently learning Tensor Flow
 - 💻 I am looking for a job in Data Science
-- 📞 How to contact me: +(57)319 590 2171
 - 📫 How to reach me: daniel.a.piamba981229@gmail.com
 - ⚡ Fun fact: Everyone asks me about my accent
 
