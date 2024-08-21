@@ -1,5 +1,5 @@
-## Hi there 👋, Im Daniel Piamba
-#Matematician, Junior Data Scientist!!! :D
+<h1 aligh= "Center">Hello there 👋, Im Daniel Piamba</h1>
+Matematician, Junior Data Scientist!!! :D**
 
 <!--
 **Lycrisiz/Lycrisiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
