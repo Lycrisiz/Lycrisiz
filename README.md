@@ -1,4 +1,4 @@
-<h1 aligh= "Center">Hello there 👋, Im Daniel Piamba</h1>
+<h1 aligh= "Center">Hello there 👋, I'm Daniel Piamba</h1>
 <h3 align="center">Matematician, Junior Data Scientist!!! :D</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Lycrisiz&label=Profile%20views&color=0e75b6&style=flat" alt="camsp" /> </p>
