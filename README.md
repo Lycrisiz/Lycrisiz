@@ -12,4 +12,11 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Everyone asks me about my accent
 
-![Python](https://img.shields.io/badge/Python-3776AB
+## Lenguajes que Conozco
+
+- !Python
+- !R
+- !JavaScript
+- !HTML5
+- !CSS3
+
